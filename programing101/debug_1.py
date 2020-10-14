@@ -1,13 +1,8 @@
 #Have each print statement print without error
-print(' I Don't want to error anymore! ')
+print("I Don\'t want to error anymore! ")
 
-print('
-I
-would like to have 
+print('\nI\nwould like to have\n\nsome space!\n')
 
-some space!
-')
+print("Work Durn You")
 
-print("Work Durn You')
-
-print(I can do this ok!)
+print("I can do this ok!")
